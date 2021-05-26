@@ -1,2 +1,2 @@
 # SBGf
-Esse repositório  com finalidade de contribuir com a Sociedade Brasilera de Geofisica
+Esse repositório  tem como finalidade contribuir com a Sociedade Brasilera de Geofisica
